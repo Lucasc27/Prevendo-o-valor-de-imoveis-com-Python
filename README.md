@@ -19,4 +19,8 @@ Para que seja possível entender, analisar e manipular os dados teremos que faze
 
 ### EDA - Análise exploratória de dados
 
-Afim de descobrirmos padrões consistentes e relações entre as variáveis que influenciam o preço do aluguel, vamos fazer uma análise exploratória nos dados que até aqui já estão bem tratados.
+A fim de descobrirmos padrões consistentes e relações entre as variáveis que influenciam o preço do aluguel, vamos fazer uma análise exploratória nos dados que até aqui já estão bem tratados.
+
+### Prdiction - Mahcine learning
+
+Essa etapa consiste na criação do modelo de machine learning com objetivo de encontrar o melhor algoritmo que busque a formulação matemática para explicar a relação entre as variáveis que envolvem o preço dos aluguéis. Nesse processo de machine learning podemos criar vários e vários modelos usando técnicas e métodos diferentes afim de chegarmos em um resultado desejado, podemos criar a modelagem preditiva e se precisar voltarmos na etapa de pré-processamento para modificar algo ou até mesmo voltar na etapa de coleta de dados se acharmos que nossos dados não são suficiente para a modelagem.
