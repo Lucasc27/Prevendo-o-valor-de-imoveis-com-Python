@@ -1,4 +1,4 @@
-# Prevendo-valor-de-apartamentos
+# Análisando e prevendo os preços de aluguéis de imóveis
 
 ### Entendimento do problema de negócio
 
