@@ -23,7 +23,7 @@ Para que seja possível entender, analisar e manipular os dados teremos que faze
 
 ### EDA - Análise exploratória de dados
 https://github.com/Lucasc27/Prevendo-o-valor-de-imoveis-com-Python/blob/main/An%C3%A1lise_explorat%C3%B3ria.ipynb -> Análise exploratória
-
+[Análise exploratória](https://github.com/Lucasc27/Prevendo-o-valor-de-imoveis-com-Python/blob/main/An%C3%A1lise_explorat%C3%B3ria.ipynb)
 A fim de descobrirmos padrões consistentes e relações entre as variáveis que influenciam o preço do aluguel, vamos fazer uma análise exploratória nos dados que até aqui já estão bem tratados.
 
 ### Prediction - Machine Learning
