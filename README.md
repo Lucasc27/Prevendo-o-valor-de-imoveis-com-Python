@@ -30,6 +30,6 @@ A fim de descobrirmos padrões consistentes e relações entre as variáveis que
 
 Essa etapa consiste na criação do modelo de machine learning com objetivo de encontrar o melhor algoritmo que busque a formulação matemática para explicar a relação entre as variáveis que envolvem o preço dos aluguéis. Nesse processo de machine learning podemos criar vários e vários modelos usando técnicas e métodos diferentes afim de chegarmos em um resultado desejado, podemos criar a modelagem preditiva e se precisar voltarmos na etapa de pré-processamento para modificar algo ou até mesmo voltar na etapa de coleta de dados se acharmos que nossos dados não são suficiente para a modelagem.
 
-### Desenvolvimento de um simulador de App
+### Desenvolvimento de um simulador de App [[Link para o App](https://github.com/Lucasc27/Prevendo-o-valor-de-imoveis-com-Python/blob/main/Modelos/README.md)]
 
 Por final e não menos importante, para poder simular um deploy de machine learning, vamos criar um App que faz as coletas de novos dados do usuário e usa o modelo treinado para fazer as novas previsões.
