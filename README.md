@@ -9,6 +9,7 @@ Por meio de análise das características vamos tentar justificar os respectivos
 
 ### Coleta dos dados 
 (https://github.com/Lucasc27/Prevendo-o-valor-de-imoveis-com-Python/blob/main/page_collector.py) -> Script para coletar as listas de link's dos imóveis
+
 (https://github.com/Lucasc27/Prevendo-o-valor-de-imoveis-com-Python/blob/main/data_extract.ipynb) -> Script para coletar os dados e características dos imóveis
 
 Para podermos simular o problema de negócio com o maior grau possível de realidade vamos coletar dados reais de imóveis de um dos maiores portais de imóveis do Brasil, o ZAP Imóvel(https://www.zapimoveis.com.br/).
