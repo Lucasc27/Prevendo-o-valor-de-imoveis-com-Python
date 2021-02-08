@@ -7,7 +7,9 @@ A escolha dos imóveis do tipo apartamento se deve ao volume de dados disponíve
 
 Por meio de análise das características vamos tentar justificar os respectivos valores que compõe o preço dos aluguéis, além de fazer previsões para atualizar os preços por meio de um modelo de machine learning.
 
-### Coleta dos dados (https://github.com/Lucasc27/Prevendo-o-valor-de-imoveis-com-Python/blob/main/page_collector.py)
+### Coleta dos dados 
+(https://github.com/Lucasc27/Prevendo-o-valor-de-imoveis-com-Python/blob/main/page_collector.py) -> Script para coletar as listas de link's dos imóveis
+(https://github.com/Lucasc27/Prevendo-o-valor-de-imoveis-com-Python/blob/main/data_extract.ipynb) -> Script para coletar os dados e características dos imóveis
 
 Para podermos simular o problema de negócio com o maior grau possível de realidade vamos coletar dados reais de imóveis de um dos maiores portais de imóveis do Brasil, o ZAP Imóvel(https://www.zapimoveis.com.br/).
 
