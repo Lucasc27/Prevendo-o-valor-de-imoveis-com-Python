@@ -10,4 +10,13 @@ Por meio de análise das características vamos tentar justificar os respectivos
 ### Coleta dos dados
 
 Para podermos simular o problema de negócio com o maior grau possível de realidade vamos coletar dados reais de imóveis de um dos maiores portais de imóveis do Brasil, o ZAP Imóvel(https://www.zapimoveis.com.br/).
+
 Vamos usar um método em Python conhecido como Webscraping e vamos criar um Webcrawler que nada mais é do que um programa de computador que navega de forma automática pela rede em busca de dados.
+
+### Pré-processamento
+
+Para que seja possível entender, analisar e manipular os dados teremos que fazer alguns pré-processamentos, nessa etapa vamos limpar e transformar os dados para que possamos usa-lós em uma análise exploratória e no modelo de machine learning.
+
+### EDA - Análise exploratória de dados
+
+Afim de descobrirmos padrões consistentes e relações entre as variáveis que influenciam o preço do aluguel, vamos fazer uma análise exploratória nos dados que até aqui já estão bem tratados.
