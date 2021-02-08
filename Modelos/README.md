@@ -1,5 +1,7 @@
 # App em Python usando o PySimpleGUI
 
+Aqui vamos pegar nosso melhor modelo([link](https://github.com/Lucasc27/Prevendo-o-valor-de-imoveis-com-Python/blob/main/Modelos/model-allVariablesANDcity-tpot.ipynb)) e carregar no App o arquivo .sav que é o modelo de machine learning compactado em um arquivo do tipo pickle, com esse arquivo carregado no App nós podemos usar o modelo já treinado para fazer a previsão dos novos dados.
+
 ### Tela inicial
 ![capture1](https://user-images.githubusercontent.com/40429808/107263901-142eab80-6a21-11eb-9fb1-51a1c0a3d3a7.PNG)
 
